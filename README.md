@@ -18,3 +18,18 @@ _OOPs_
 - Inheritance
 - Polymorphism
 - Overriding/Overloading
+
+_Operators_
+Instanceof
+Conditional
+Logical
+Arithmetic
+
+_Control Flow Statements_
+For Loop
+Enhanced For Loop
+While Loop
+Switch
+Do Loop
+Continue/Break
+Labelled/Unlabelled Statements
