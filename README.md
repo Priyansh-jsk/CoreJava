@@ -20,16 +20,13 @@ _OOPs_
 - Overriding/Overloading
 
 _Operators_
-Instanceof
-Conditional
-Logical
-Arithmetic
+- Instanceof
+- Conditional, Logical, Arithmetic
 
 _Control Flow Statements_
-For Loop
-Enhanced For Loop
-While Loop
-Switch
-Do Loop
-Continue/Break
-Labelled/Unlabelled Statements
+- For Loop
+- Enhanced For Loop
+- While Loop, Do Loop
+- Switch
+- Continue/Break
+- Labelled/Unlabelled Statements
